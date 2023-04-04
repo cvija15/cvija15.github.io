@@ -27,7 +27,7 @@ const paddle = {
   y: canvas.height - 20,
   w: 80,
   h: 10,
-  speed: 8,
+  speed: 9,
   dx: 0,
   visible: true
 };
