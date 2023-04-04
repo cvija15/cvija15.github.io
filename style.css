@@ -15,11 +15,11 @@ body {
 
 h1 {
   font-size: 45px;
-  color: #0a0a0a;
+  color: black;
   text-align: center;
 }
 canvas {
-  background: #0a0a0a;
+  background: black;
   display: block;
   border-radius: 5px;
 }
@@ -38,7 +38,7 @@ canvas {
 }
 
 .btn:hover {
-  background: #0a0a0a;
+  background: black;
 }
 
 .btn:active {
